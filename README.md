@@ -1,1 +1,5 @@
-# initial_repo
+- Hi, I’m @rgemartinez, Data Engineer/Architect on MercadoLibre.
+- I’m interested in topics like AWS, GCP, Machine Learning, Data Analytics and Data Architecting.
+- 📫 How to reach me: 
+  - Linkedin: https://www.linkedin.com/in/jorge-luis-martinez-martinez/ 
+  - Web: https://coke680.bitbucket.io/
